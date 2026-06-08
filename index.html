@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Symbolikon Encyclopedia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">☥</div>
+        <div>
+          <h1>Symbolikon</h1>
+          <p>Ancient symbols encyclopedia</p>
+        </div>
+      </div>
+
+      <div class="search-box">
+        <input type="search" id="search" placeholder="Search symbols, tags, meanings…" autocomplete="off" />
+      </div>
+
+      <div class="sidebar-section">
+        <h2>Browse</h2>
+        <button class="filter-btn active" data-category="">All symbols <span id="total-count"></span></button>
+        <div id="category-list" class="category-list"></div>
+      </div>
+
+      <div class="sidebar-section">
+        <h2>Popular tags</h2>
+        <div id="tag-cloud" class="tag-cloud"></div>
+      </div>
+
+      <footer class="sidebar-footer">
+        <p>Data sourced from <a href="https://symbolikon.com/" target="_blank" rel="noopener">symbolikon.com</a></p>
+      </footer>
+    </aside>
+
+    <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle navigation">☰</button>
+
+    <main class="main">
+      <header class="toolbar">
+        <div class="toolbar-left">
+          <h2 id="view-title">All Symbols</h2>
+          <p id="result-count"></p>
+        </div>
+        <div class="toolbar-right">
+          <label class="sort-label" for="sort">Sort</label>
+          <select id="sort">
+            <option value="name-asc">Name A–Z</option>
+            <option value="name-desc">Name Z–A</option>
+            <option value="culture-asc">Culture A–Z</option>
+          </select>
+        </div>
+      </header>
+
+      <div id="symbol-grid" class="symbol-grid"></div>
+      <div id="empty-state" class="empty-state hidden">
+        <h3>No symbols found</h3>
+        <p>Try a different search term or clear your filters.</p>
+      </div>
+      <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Loading symbol library…</p>
+      </div>
+    </main>
+  </div>
+
+  <dialog id="detail-dialog" class="detail-dialog">
+    <div class="detail-inner">
+      <button class="close-btn" id="close-detail" aria-label="Close">×</button>
+      <div class="detail-layout">
+        <div class="detail-image-wrap">
+          <img id="detail-image" alt="" />
+        </div>
+        <div class="detail-content">
+          <p class="detail-culture" id="detail-culture"></p>
+          <h2 id="detail-name"></h2>
+          <div class="detail-tags" id="detail-tags"></div>
+          <section>
+            <h3>Description</h3>
+            <p id="detail-description"></p>
+          </section>
+          <section id="general-section" class="hidden">
+            <h3>Background</h3>
+            <p id="detail-general"></p>
+          </section>
+          <a id="detail-source" class="source-link" href="#" target="_blank" rel="noopener">View on Symbolikon →</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,530 @@
+[
+  {
+    "id": 250,
+    "name": "Adinkra",
+    "slug": "adinkra-symbols",
+    "count": 124,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/adinkra-symbols/"
+  },
+  {
+    "id": 837,
+    "name": "Africa",
+    "slug": "african-symbols",
+    "count": 186,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/african-symbols/"
+  },
+  {
+    "id": 256,
+    "name": "Alchemy",
+    "slug": "alchemy-symbols",
+    "count": 27,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/alchemy-symbols/"
+  },
+  {
+    "id": 268,
+    "name": "American Native Rock Art",
+    "slug": "american-native-rock-art-symbols",
+    "count": 68,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/american-native-rock-art-symbols/"
+  },
+  {
+    "id": 1903,
+    "name": "Angels",
+    "slug": "angel-symbols",
+    "count": 61,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/angel-symbols/"
+  },
+  {
+    "id": 1952,
+    "name": "Animals",
+    "slug": "animal-symbols",
+    "count": 39,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/animal-symbols/"
+  },
+  {
+    "id": 1990,
+    "name": "Anthroposophy",
+    "slug": "anthroposophy",
+    "count": 28,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/anthroposophy/"
+  },
+  {
+    "id": 251,
+    "name": "Ashtamangala",
+    "slug": "ashtamangala-symbols",
+    "count": 10,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/ashtamangala-symbols/"
+  },
+  {
+    "id": 804,
+    "name": "Asia",
+    "slug": "asian-symbols",
+    "count": 103,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/asian-symbols/"
+  },
+  {
+    "id": 255,
+    "name": "Astrology",
+    "slug": "astrology-symbols",
+    "count": 54,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/astrology-symbols/"
+  },
+  {
+    "id": 257,
+    "name": "Aztec",
+    "slug": "aztec-symbols",
+    "count": 25,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/aztec-symbols/"
+  },
+  {
+    "id": 267,
+    "name": "Buddhism",
+    "slug": "buddhism-symbols",
+    "count": 88,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/buddhism-symbols/"
+  },
+  {
+    "id": 1978,
+    "name": "Buddhist Gods",
+    "slug": "buddhist-gods-symbols",
+    "count": 31,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/buddhist-gods-symbols/"
+  },
+  {
+    "id": 248,
+    "name": "Celtic",
+    "slug": "celtic-symbols",
+    "count": 31,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/celtic-symbols/"
+  },
+  {
+    "id": 978,
+    "name": "Central America",
+    "slug": "central-america-symbols",
+    "count": 128,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/central-america-symbols/"
+  },
+  {
+    "id": 1194,
+    "name": "Central Europe",
+    "slug": "central-europe-symbols",
+    "count": 104,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/central-europe-symbols/"
+  },
+  {
+    "id": 252,
+    "name": "Chakra",
+    "slug": "chakra-symbols",
+    "count": 10,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/chakra-symbols/"
+  },
+  {
+    "id": 1901,
+    "name": "Chinese",
+    "slug": "chinese-symbols",
+    "count": 21,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/chinese-symbols/"
+  },
+  {
+    "id": 258,
+    "name": "Christianity",
+    "slug": "christianity-symbols",
+    "count": 14,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/christianity-symbols/"
+  },
+  {
+    "id": 1987,
+    "name": "Color Palettes",
+    "slug": "color-palettes",
+    "count": 20,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/color-palettes/"
+  },
+  {
+    "id": 1925,
+    "name": "Crop Circles",
+    "slug": "crop-circles",
+    "count": 32,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/crop-circles/"
+  },
+  {
+    "id": 1964,
+    "name": "Easter Island Rapa Nui",
+    "slug": "easter-island-rapa-nui",
+    "count": 29,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/easter-island-rapa-nui/"
+  },
+  {
+    "id": 273,
+    "name": "Egyptian",
+    "slug": "egyptian-symbols",
+    "count": 68,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/egyptian-symbols/"
+  },
+  {
+    "id": 1975,
+    "name": "Feng Shui",
+    "slug": "feng-shui-symbols",
+    "count": 25,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/feng-shui-symbols/"
+  },
+  {
+    "id": 1876,
+    "name": "Flowers",
+    "slug": "flowers-symbols",
+    "count": 39,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/flowers-symbols/"
+  },
+  {
+    "id": 1893,
+    "name": "Fonts",
+    "slug": "ancient-fonts",
+    "count": 10,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/ancient-fonts/"
+  },
+  {
+    "id": 2024,
+    "name": "Freemasonry",
+    "slug": "freemasonry-symbols",
+    "count": 16,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/freemasonry-symbols/"
+  },
+  {
+    "id": 259,
+    "name": "Greek Mythology",
+    "slug": "greek-mythology-symbols",
+    "count": 29,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/greek-mythology-symbols/"
+  },
+  {
+    "id": 1957,
+    "name": "Hindu",
+    "slug": "hindu-symbols",
+    "count": 28,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/hindu-symbols/"
+  },
+  {
+    "id": 269,
+    "name": "Hopi",
+    "slug": "hopi-symbols",
+    "count": 18,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/hopi-symbols/"
+  },
+  {
+    "id": 260,
+    "name": "Inca",
+    "slug": "inca-symbols",
+    "count": 21,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/inca-symbols/"
+  },
+  {
+    "id": 2000,
+    "name": "Inuit",
+    "slug": "inuit-symbols",
+    "count": 14,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/inuit-symbols/"
+  },
+  {
+    "id": 1840,
+    "name": "Islam",
+    "slug": "islam-symbols",
+    "count": 21,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/islam-symbols/"
+  },
+  {
+    "id": 1984,
+    "name": "Jain",
+    "slug": "jain-symbols",
+    "count": 31,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/jain-symbols/"
+  },
+  {
+    "id": 1894,
+    "name": "Japan",
+    "slug": "japanese-symbols",
+    "count": 45,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/japanese-symbols/"
+  },
+  {
+    "id": 2009,
+    "name": "Jolly Roger Pirate Flags",
+    "slug": "jolly-roger-pirate-flags",
+    "count": 14,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/jolly-roger-pirate-flags/"
+  },
+  {
+    "id": 261,
+    "name": "Lakota Sioux",
+    "slug": "lakota-sioux-symbols",
+    "count": 19,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/lakota-sioux-symbols/"
+  },
+  {
+    "id": 262,
+    "name": "Latvian",
+    "slug": "latvian-symbols",
+    "count": 26,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/latvian-symbols/"
+  },
+  {
+    "id": 1750,
+    "name": "Lovecraftian Mythos",
+    "slug": "lovecraftian-mythos-symbols",
+    "count": 23,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/lovecraftian-mythos-symbols/"
+  },
+  {
+    "id": 253,
+    "name": "Maori",
+    "slug": "maori-symbols",
+    "count": 22,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/maori-symbols/"
+  },
+  {
+    "id": 1864,
+    "name": "Mapuche",
+    "slug": "mapuche-symbols",
+    "count": 22,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/mapuche-symbols/"
+  },
+  {
+    "id": 263,
+    "name": "Maya",
+    "slug": "maya-symbols",
+    "count": 60,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/maya-symbols/"
+  },
+  {
+    "id": 271,
+    "name": "Mu Lemurian",
+    "slug": "mu-lemurian-symbols",
+    "count": 22,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/mu-lemurian-symbols/"
+  },
+  {
+    "id": 2027,
+    "name": "Nazca lines",
+    "slug": "nazca-lines-symbols",
+    "count": 22,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/nazca-lines-symbols/"
+  },
+  {
+    "id": 266,
+    "name": "Norse",
+    "slug": "norse-symbols",
+    "count": 16,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/norse-symbols/"
+  },
+  {
+    "id": 265,
+    "name": "Norse Runes",
+    "slug": "norse-runes-symbols",
+    "count": 28,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/norse-runes-symbols/"
+  },
+  {
+    "id": 458,
+    "name": "North America",
+    "slug": "north-america-symbols",
+    "count": 113,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/north-america-symbols/"
+  },
+  {
+    "id": 298,
+    "name": "North Europe",
+    "slug": "north-europe-symbols",
+    "count": 64,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/north-europe-symbols/"
+  },
+  {
+    "id": 762,
+    "name": "Pacific Area",
+    "slug": "pacific-area-symbols",
+    "count": 40,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/pacific-area-symbols/"
+  },
+  {
+    "id": 2039,
+    "name": "Persian",
+    "slug": "persian-symbols",
+    "count": 54,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/persian-symbols/"
+  },
+  {
+    "id": 1889,
+    "name": "Printable Posters",
+    "slug": "posters",
+    "count": 9,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/posters/"
+  },
+  {
+    "id": 1961,
+    "name": "Reiki",
+    "slug": "reiki-symbols",
+    "count": 35,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/reiki-symbols/"
+  },
+  {
+    "id": 2045,
+    "name": "Roman Empire",
+    "slug": "roman-empire-symbols",
+    "count": 25,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/roman-empire-symbols/"
+  },
+  {
+    "id": 270,
+    "name": "Sacred Geometry",
+    "slug": "sacred-geometry-symbols",
+    "count": 21,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/sacred-geometry-symbols/"
+  },
+  {
+    "id": 2021,
+    "name": "Sami",
+    "slug": "sami-symbols",
+    "count": 18,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/sami-symbols/"
+  },
+  {
+    "id": 254,
+    "name": "Slavic",
+    "slug": "slavic-symbols",
+    "count": 34,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/slavic-symbols/"
+  },
+  {
+    "id": 1104,
+    "name": "South America",
+    "slug": "south-america-symbols",
+    "count": 61,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/south-america-symbols/"
+  },
+  {
+    "id": 1195,
+    "name": "South Europe",
+    "slug": "south-europe-symbols",
+    "count": 96,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/south-europe-symbols/"
+  },
+  {
+    "id": 2032,
+    "name": "Sumerian",
+    "slug": "sumerian-symbols",
+    "count": 34,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/sumerian-symbols/"
+  },
+  {
+    "id": 264,
+    "name": "Taino",
+    "slug": "taino-symbols",
+    "count": 20,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/taino-symbols/"
+  },
+  {
+    "id": 272,
+    "name": "Tarot Major Arcana",
+    "slug": "tarot-symbols",
+    "count": 25,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/tarot-symbols/"
+  },
+  {
+    "id": 1937,
+    "name": "Templar",
+    "slug": "templar-symbols",
+    "count": 32,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/templar-symbols/"
+  },
+  {
+    "id": 2007,
+    "name": "Turkish",
+    "slug": "turkish-symbols",
+    "count": 29,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/turkish-symbols/"
+  },
+  {
+    "id": 2014,
+    "name": "Voodoo Veve",
+    "slug": "voodoo-veve-symbols",
+    "count": 32,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/voodoo-veve-symbols/"
+  },
+  {
+    "id": 2013,
+    "name": "Wicca",
+    "slug": "wicca-symbols",
+    "count": 17,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/wicca-symbols/"
+  },
+  {
+    "id": 1971,
+    "name": "Yantra",
+    "slug": "yantra-symbols",
+    "count": 23,
+    "description": "",
+    "url": "https://symbolikon.com/downloads/category/yantra-symbols/"
+  }
+]
